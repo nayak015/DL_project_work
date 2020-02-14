@@ -4,17 +4,27 @@ DL project existing research in audio style transfer
 ## List of papers:
 
 
-# Speech Generation:
+### Speech Generation:
 Andrew
 
 
-# Music Generation:
+### Music Generation:
 Varun
 
 
-# Image Style Transfer:
+### Image Style Transfer:
 Chris 
 
 
-# Audio Style Transfer:
+### Audio Style Transfer:
 Ankit
+
+
+
+## Proposal Notes
+
+### Abstract
+
+### Introductions
+
+### Methods
